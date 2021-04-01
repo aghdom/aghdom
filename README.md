@@ -27,7 +27,7 @@ I write mostly Python and Go, deploying into GCP using Docker and Kubernetes.
 ### About me
 - 📚 Avid Reader
 - 🕹 Game Enthusiast *(Video Games, Board Games and TTRPGs alike)*
-- 📷 Amateur Photograph
+- 📷 Amateur Photographer
 - 🏔 Passionate Hiker
 - 🍵 Enjoying Good Tea
 - 📓 Keeping a Bullet Journal
