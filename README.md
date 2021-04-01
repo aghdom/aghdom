@@ -3,7 +3,7 @@
 
 ## Hey! I'm Dom,
 
-I'm primarily a Backend developer, who sometimes dabbles in Frontend/Full-stack. Currently working for [Exponea](https://exponea.com) as Backend Software Engineer.
+I'm primarily a Backend developer, who sometimes dabbles in Frontend/Full-stack. Currently working for [Exponea](https://exponea.com) as a Backend Software Engineer.
 I write mostly Python and Go, deploying into GCP using Docker and Kubernetes.
 
 ### Languages and Technologies
