@@ -3,7 +3,7 @@
 
 ## Hey! I'm Dom,
 
-I'm primarily a Backend developer, who sometimes dabbles in Frontend/Full-stack. Currently working for [Bloomreach](https://www.bloomreach.com/en) as a Backend Software Engineer.
+I'm primarily a Backend developer, who sometimes dabbles in Frontend/Full-stack. Currently working for [Bloomreach](https://www.bloomreach.com/en) as a Tech Lead.
 I write mostly Python and Go, deploying into GCP using Docker and Kubernetes.
 
 ### Languages and Technologies
